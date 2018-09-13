@@ -1,0 +1,1241 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4012,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "desert ship",
+      "sentiment": {
+        "score": -0.555058,
+        "label": "negative"
+      },
+      "relevance": 0.986974,
+      "emotion": {
+        "sadness": 0.722323,
+        "joy": 0.065965,
+        "fear": 0.057127,
+        "disgust": 0.139864,
+        "anger": 0.129765
+      }
+    },
+    {
+      "text": "rugged Colorado Desert",
+      "sentiment": {
+        "score": -0.246817,
+        "label": "negative"
+      },
+      "relevance": 0.929987,
+      "emotion": {
+        "sadness": 0.146294,
+        "joy": 0.221358,
+        "fear": 0.066544,
+        "disgust": 0.076084,
+        "anger": 0.104871
+      }
+    },
+    {
+      "text": "librarian Myrtle Botts",
+      "sentiment": {
+        "score": -0.500747,
+        "label": "negative"
+      },
+      "relevance": 0.906193,
+      "emotion": {
+        "sadness": 0.448906,
+        "joy": 0.407977,
+        "fear": 0.065132,
+        "disgust": 0.016412,
+        "anger": 0.082902
+      }
+    },
+    {
+      "text": "Canebrake Canyon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.862232,
+      "emotion": {
+        "sadness": 0.194792,
+        "joy": 0.150974,
+        "fear": 0.031558,
+        "disgust": 0.085976,
+        "anger": 0.0474
+      }
+    },
+    {
+      "text": "Desert Dunes motel",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.857937,
+      "emotion": {
+        "sadness": 0.286531,
+        "joy": 0.29362,
+        "fear": 0.072461,
+        "disgust": 0.224387,
+        "anger": 0.110315
+      }
+    },
+    {
+      "text": "Albert S. Evans",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.849984,
+      "emotion": {
+        "sadness": 0.412657,
+        "joy": 0.064529,
+        "fear": 0.19381,
+        "disgust": 0.217158,
+        "anger": 0.378051
+      }
+    },
+    {
+      "text": "Southern California",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.846389,
+      "emotion": {
+        "sadness": 0.101298,
+        "joy": 0.335192,
+        "fear": 0.090898,
+        "disgust": 0.079936,
+        "anger": 0.259927
+      }
+    },
+    {
+      "text": "ancient American dreamtime",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.832077,
+      "emotion": {
+        "sadness": 0.563097,
+        "joy": 0.114584,
+        "fear": 0.136717,
+        "disgust": 0.139783,
+        "anger": 0.046273
+      }
+    },
+    {
+      "text": "World Trade Center",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.829048,
+      "emotion": {
+        "sadness": 0.551248,
+        "joy": 0.219915,
+        "fear": 0.100839,
+        "disgust": 0.159054,
+        "anger": 0.132195
+      }
+    },
+    {
+      "text": "treasure ship",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.795706,
+      "emotion": {
+        "sadness": 0.468585,
+        "joy": 0.168619,
+        "fear": 0.029721,
+        "disgust": 0.067962,
+        "anger": 0.302241
+      }
+    },
+    {
+      "text": "Anza-Borrego Desert",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.79023,
+      "emotion": {
+        "sadness": 0.283731,
+        "joy": 0.281543,
+        "fear": 0.054903,
+        "disgust": 0.13803,
+        "anger": 0.104731
+      }
+    },
+    {
+      "text": "ship Evans",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.783095,
+      "emotion": {
+        "sadness": 0.328751,
+        "joy": 0.027785,
+        "fear": 0.062272,
+        "disgust": 0.122595,
+        "anger": 0.103215
+      }
+    },
+    {
+      "text": "Viking ship",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.779065,
+      "emotion": {
+        "sadness": 0.363645,
+        "joy": 0.103755,
+        "fear": 0.030421,
+        "disgust": 0.060293,
+        "anger": 0.145368
+      }
+    },
+    {
+      "text": "desert flora",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.771435,
+      "emotion": {
+        "sadness": 0.178931,
+        "joy": 0.447722,
+        "fear": 0.286526,
+        "disgust": 0.12252,
+        "anger": 0.037599
+      }
+    },
+    {
+      "text": "gallant ship",
+      "sentiment": {
+        "score": -0.418457,
+        "label": "negative"
+      },
+      "relevance": 0.767829,
+      "emotion": {
+        "sadness": 0.72815,
+        "joy": 0.009874,
+        "fear": 0.109089,
+        "disgust": 0.061709,
+        "anger": 0.078276
+      }
+    },
+    {
+      "text": "desert conservation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.765493,
+      "emotion": {
+        "sadness": 0.253997,
+        "joy": 0.397892,
+        "fear": 0.11543,
+        "disgust": 0.096413,
+        "anger": 0.075032
+      }
+    },
+    {
+      "text": "Hellhole Canyon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.753124,
+      "emotion": {
+        "sadness": 0.132472,
+        "joy": 0.189404,
+        "fear": 0.080563,
+        "disgust": 0.074394,
+        "anger": 0.083085
+      }
+    },
+    {
+      "text": "Moonlight Canyon",
+      "sentiment": {
+        "score": 0.313185,
+        "label": "positive"
+      },
+      "relevance": 0.752671,
+      "emotion": {
+        "sadness": 0.132472,
+        "joy": 0.189404,
+        "fear": 0.080563,
+        "disgust": 0.074394,
+        "anger": 0.083085
+      }
+    },
+    {
+      "text": "Spanish explorers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.752126,
+      "emotion": {
+        "sadness": 0.468585,
+        "joy": 0.168619,
+        "fear": 0.029721,
+        "disgust": 0.067962,
+        "anger": 0.302241
+      }
+    },
+    {
+      "text": "riotous invasion",
+      "sentiment": {
+        "score": 0.559545,
+        "label": "positive"
+      },
+      "relevance": 0.750159,
+      "emotion": {
+        "sadness": 0.257926,
+        "joy": 0.085886,
+        "fear": 0.286756,
+        "disgust": 0.266443,
+        "anger": 0.258685
+      }
+    },
+    {
+      "text": "Agua Caliente",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.74811,
+      "emotion": {
+        "sadness": 0.219553,
+        "joy": 0.299136,
+        "fear": 0.099586,
+        "disgust": 0.075525,
+        "anger": 0.263985
+      }
+    },
+    {
+      "text": "washed-out yellows",
+      "sentiment": {
+        "score": 0.559545,
+        "label": "positive"
+      },
+      "relevance": 0.747895,
+      "emotion": {
+        "sadness": 0.257926,
+        "joy": 0.085886,
+        "fear": 0.286756,
+        "disgust": 0.266443,
+        "anger": 0.258685
+      }
+    },
+    {
+      "text": "prehistoric beast",
+      "sentiment": {
+        "score": -0.416672,
+        "label": "negative"
+      },
+      "relevance": 0.744581,
+      "emotion": {
+        "sadness": 0.153903,
+        "joy": 0.263498,
+        "fear": 0.089728,
+        "disgust": 0.127972,
+        "anger": 0.063562
+      }
+    },
+    {
+      "text": "Viking craft",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.741091,
+      "emotion": {
+        "sadness": 0.134917,
+        "joy": 0.420153,
+        "fear": 0.090251,
+        "disgust": 0.06942,
+        "anger": 0.075247
+      }
+    },
+    {
+      "text": "wooden remains",
+      "sentiment": {
+        "score": -0.416672,
+        "label": "negative"
+      },
+      "relevance": 0.740671,
+      "emotion": {
+        "sadness": 0.153903,
+        "joy": 0.263498,
+        "fear": 0.089728,
+        "disgust": 0.127972,
+        "anger": 0.063562
+      }
+    },
+    {
+      "text": "place names",
+      "sentiment": {
+        "score": -0.482936,
+        "label": "negative"
+      },
+      "relevance": 0.739386,
+      "emotion": {
+        "sadness": 0.070632,
+        "joy": 0.668752,
+        "fear": 0.120439,
+        "disgust": 0.028048,
+        "anger": 0.055812
+      }
+    },
+    {
+      "text": "route Evans",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.738158,
+      "emotion": {
+        "sadness": 0.11931,
+        "joy": 0.125698,
+        "fear": 0.022311,
+        "disgust": 0.061211,
+        "anger": 0.056809
+      }
+    },
+    {
+      "text": "Indian Gorge",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.737401,
+      "emotion": {
+        "sadness": 0.691701,
+        "joy": 0.087328,
+        "fear": 0.081599,
+        "disgust": 0.060742,
+        "anger": 0.107082
+      }
+    },
+    {
+      "text": "new species",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.737179,
+      "emotion": {
+        "sadness": 0.178931,
+        "joy": 0.447722,
+        "fear": 0.286526,
+        "disgust": 0.12252,
+        "anger": 0.037599
+      }
+    },
+    {
+      "text": "rugged hike",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.736955,
+      "emotion": {
+        "sadness": 0.153031,
+        "joy": 0.62432,
+        "fear": 0.072325,
+        "disgust": 0.035379,
+        "anger": 0.081219
+      }
+    },
+    {
+      "text": "Lake Cahuilla",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.735675,
+      "emotion": {
+        "sadness": 0.145754,
+        "joy": 0.180026,
+        "fear": 0.089635,
+        "disgust": 0.07684,
+        "anger": 0.088273
+      }
+    },
+    {
+      "text": "serpentine figure",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732908,
+      "emotion": {
+        "sadness": 0.2965,
+        "joy": 0.196661,
+        "fear": 0.154693,
+        "disgust": 0.041294,
+        "anger": 0.044047
+      }
+    },
+    {
+      "text": "couple’s camp",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.73181,
+      "emotion": {
+        "sadness": 0.178931,
+        "joy": 0.447722,
+        "fear": 0.286526,
+        "disgust": 0.12252,
+        "anger": 0.037599
+      }
+    },
+    {
+      "text": "time Myrtle",
+      "sentiment": {
+        "score": 0.384248,
+        "label": "positive"
+      },
+      "relevance": 0.731605,
+      "emotion": {
+        "sadness": 0.111124,
+        "joy": 0.372199,
+        "fear": 0.032555,
+        "disgust": 0.025872,
+        "anger": 0.116267
+      }
+    },
+    {
+      "text": "magnitude earthquake",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.730948,
+      "emotion": {
+        "sadness": 0.1059,
+        "joy": 0.450795,
+        "fear": 0.06614,
+        "disgust": 0.164789,
+        "anger": 0.080861
+      }
+    },
+    {
+      "text": "tiny settlement",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.730583,
+      "emotion": {
+        "sadness": 0.219553,
+        "joy": 0.299136,
+        "fear": 0.099586,
+        "disgust": 0.075525,
+        "anger": 0.263985
+      }
+    },
+    {
+      "text": "untold riches",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.729245,
+      "emotion": {
+        "sadness": 0.18722,
+        "joy": 0.625655,
+        "fear": 0.073145,
+        "disgust": 0.025828,
+        "anger": 0.088249
+      }
+    },
+    {
+      "text": "Baja California",
+      "sentiment": {
+        "score": -0.229949,
+        "label": "negative"
+      },
+      "relevance": 0.72886,
+      "emotion": {
+        "sadness": 0.155432,
+        "joy": 0.212201,
+        "fear": 0.066759,
+        "disgust": 0.073871,
+        "anger": 0.110673
+      }
+    },
+    {
+      "text": "Huntington Beach",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.728281,
+      "emotion": {
+        "sadness": 0.1059,
+        "joy": 0.450795,
+        "fear": 0.06614,
+        "disgust": 0.164789,
+        "anger": 0.080861
+      }
+    },
+    {
+      "text": "dead sea",
+      "sentiment": {
+        "score": -0.528801,
+        "label": "negative"
+      },
+      "relevance": 0.727284,
+      "emotion": {
+        "sadness": 0.713344,
+        "joy": 0.026697,
+        "fear": 0.301466,
+        "disgust": 0.030287,
+        "anger": 0.165317
+      }
+    },
+    {
+      "text": "evening primrose",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.72701,
+      "emotion": {
+        "sadness": 0.096785,
+        "joy": 0.445475,
+        "fear": 0.042024,
+        "disgust": 0.034229,
+        "anger": 0.047033
+      }
+    },
+    {
+      "text": "San Bernardino",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.726081,
+      "emotion": {
+        "sadness": 0.045294,
+        "joy": 0.351696,
+        "fear": 0.04134,
+        "disgust": 0.034002,
+        "anger": 0.055573
+      }
+    },
+    {
+      "text": "creosote bush",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.724744,
+      "emotion": {
+        "sadness": 0.49238,
+        "joy": 0.026628,
+        "fear": 0.164773,
+        "disgust": 0.359513,
+        "anger": 0.301342
+      }
+    },
+    {
+      "text": "centuries ago.",
+      "sentiment": {
+        "score": -0.319973,
+        "label": "negative"
+      },
+      "relevance": 0.724446
+    },
+    {
+      "text": "main currencies",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.723828,
+      "emotion": {
+        "sadness": 0.563097,
+        "joy": 0.114584,
+        "fear": 0.136717,
+        "disgust": 0.139783,
+        "anger": 0.046273
+      }
+    },
+    {
+      "text": "early-European explorers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.723558,
+      "emotion": {
+        "sadness": 0.100754,
+        "joy": 0.335516,
+        "fear": 0.104184,
+        "disgust": 0.07705,
+        "anger": 0.276029
+      }
+    },
+    {
+      "text": "Black Sea",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.723442,
+      "emotion": {
+        "sadness": 0.276933,
+        "joy": 0.491413,
+        "fear": 0.078701,
+        "disgust": 0.077894,
+        "anger": 0.081237
+      }
+    },
+    {
+      "text": "rocky face",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.723123,
+      "emotion": {
+        "sadness": 0.277867,
+        "joy": 0.166324,
+        "fear": 0.078175,
+        "disgust": 0.104784,
+        "anger": 0.048994
+      }
+    },
+    {
+      "text": "vast lake",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.722739,
+      "emotion": {
+        "sadness": 0.100754,
+        "joy": 0.335516,
+        "fear": 0.104184,
+        "disgust": 0.07705,
+        "anger": 0.276029
+      }
+    },
+    {
+      "text": "fake news",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.722333,
+      "emotion": {
+        "sadness": 0.730504,
+        "joy": 0.131763,
+        "fear": 0.06778,
+        "disgust": 0.038366,
+        "anger": 0.201384
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "Anza-Borrego Desert",
+      "sentiment": {
+        "score": -0.493608,
+        "label": "negative"
+      },
+      "relevance": 0.844906,
+      "emotion": {
+        "sadness": 0.133623,
+        "joy": 0.415726,
+        "fear": 0.051569,
+        "disgust": 0.111376,
+        "anger": 0.072739
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Myrtle Botts",
+      "sentiment": {
+        "score": -0.0582496,
+        "label": "negative"
+      },
+      "relevance": 0.828277,
+      "emotion": {
+        "sadness": 0.350488,
+        "joy": 0.251101,
+        "fear": 0.056176,
+        "disgust": 0.155247,
+        "anger": 0.112156
+      },
+      "count": 7
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Colorado Desert",
+      "sentiment": {
+        "score": -0.246817,
+        "label": "negative"
+      },
+      "relevance": 0.57604,
+      "emotion": {
+        "sadness": 0.146294,
+        "joy": 0.221358,
+        "fear": 0.066544,
+        "disgust": 0.076084,
+        "anger": 0.104871
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Albert S. Evans",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.508076,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 4
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Canebrake Canyon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.462965,
+      "emotion": {
+        "sadness": 0.194792,
+        "joy": 0.150974,
+        "fear": 0.031558,
+        "disgust": 0.085976,
+        "anger": 0.0474
+      },
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Desert Dunes",
+      "sentiment": {
+        "score": -0.302342,
+        "label": "negative"
+      },
+      "relevance": 0.441075,
+      "emotion": {
+        "sadness": 0.101866,
+        "joy": 0.452357,
+        "fear": 0.059508,
+        "disgust": 0.063798,
+        "anger": 0.074188
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Southern California",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.406857,
+      "emotion": {
+        "sadness": 0.101298,
+        "joy": 0.335192,
+        "fear": 0.090898,
+        "disgust": 0.079936,
+        "anger": 0.259927
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Mexico",
+      "sentiment": {
+        "score": -0.519773,
+        "label": "negative"
+      },
+      "relevance": 0.397927,
+      "emotion": {
+        "sadness": 0.227713,
+        "joy": 0.280759,
+        "fear": 0.40926,
+        "disgust": 0.02735,
+        "anger": 0.031371
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Moonlight Canyon",
+      "sentiment": {
+        "score": 0.313185,
+        "label": "positive"
+      },
+      "relevance": 0.378398,
+      "emotion": {
+        "sadness": 0.132472,
+        "joy": 0.189404,
+        "fear": 0.080563,
+        "disgust": 0.074394,
+        "anger": 0.083085
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": -0.246817,
+        "label": "negative"
+      },
+      "relevance": 0.363225,
+      "emotion": {
+        "sadness": 0.146294,
+        "joy": 0.221358,
+        "fear": 0.066544,
+        "disgust": 0.076084,
+        "anger": 0.104871
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": -0.229949,
+        "label": "negative"
+      },
+      "relevance": 0.340829,
+      "emotion": {
+        "sadness": 0.155432,
+        "joy": 0.212201,
+        "fear": 0.066759,
+        "disgust": 0.073871,
+        "anger": 0.110673
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Agua Caliente",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.327914,
+      "emotion": {
+        "sadness": 0.219553,
+        "joy": 0.299136,
+        "fear": 0.099586,
+        "disgust": 0.075525,
+        "anger": 0.263985
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "World Trade Center",
+      "sentiment": {
+        "score": -0.352871,
+        "label": "negative"
+      },
+      "relevance": 0.327758,
+      "emotion": {
+        "sadness": 0.29831,
+        "joy": 0.13063,
+        "fear": 0.185552,
+        "disgust": 0.207302,
+        "anger": 0.483274
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "BuildingComplex",
+          "Skyscraper"
+        ],
+        "name": "World Trade Center",
+        "dbpedia_resource": "http://dbpedia.org/resource/World_Trade_Center"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "San Bernardino",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.317555,
+      "emotion": {
+        "sadness": 0.249254,
+        "joy": 0.118853,
+        "fear": 0.080204,
+        "disgust": 0.106957,
+        "anger": 0.131732
+      },
+      "disambiguation": {
+        "subtype": [
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "San Bernardino, California",
+        "dbpedia_resource": "http://dbpedia.org/resource/San_Bernardino,_California"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Newsweek",
+      "sentiment": {
+        "score": -0.684874,
+        "label": "negative"
+      },
+      "relevance": 0.316993,
+      "emotion": {
+        "sadness": 0.196101,
+        "joy": 0.124219,
+        "fear": 0.148706,
+        "disgust": 0.121887,
+        "anger": 0.089225
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Black Sea",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.316171,
+      "emotion": {
+        "sadness": 0.551248,
+        "joy": 0.219915,
+        "fear": 0.100839,
+        "disgust": 0.159054,
+        "anger": 0.132195
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "BodyOfWater",
+          "Lake"
+        ],
+        "name": "Black Sea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Black_Sea"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Baja California",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.311679,
+      "emotion": {
+        "sadness": 0.145754,
+        "joy": 0.180026,
+        "fear": 0.089635,
+        "disgust": 0.07684,
+        "anger": 0.088273
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Indian Gorge",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.306718,
+      "emotion": {
+        "sadness": 0.691701,
+        "joy": 0.087328,
+        "fear": 0.081599,
+        "disgust": 0.060742,
+        "anger": 0.107082
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Huntington Beach",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.304823,
+      "emotion": {
+        "sadness": 0.1059,
+        "joy": 0.450795,
+        "fear": 0.06614,
+        "disgust": 0.164789,
+        "anger": 0.080861
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Lake Cahuilla",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.304821,
+      "emotion": {
+        "sadness": 0.045294,
+        "joy": 0.351696,
+        "fear": 0.04134,
+        "disgust": 0.034002,
+        "anger": 0.055573
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Manhattan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.304153,
+      "emotion": {
+        "sadness": 0.119995,
+        "joy": 0.223902,
+        "fear": 0.013438,
+        "disgust": 0.052047,
+        "anger": 0.072145
+      },
+      "disambiguation": {
+        "subtype": [
+          "GeographicFeature",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Island",
+          "PlaceWithNeighborhoods",
+          "USCounty",
+          "City"
+        ],
+        "name": "Manhattan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Manhattan"
+      },
+      "count": 1
+    },
+    {
+      "type": "Broadcaster",
+      "text": "HBO",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.279559,
+      "emotion": {
+        "sadness": 0.286531,
+        "joy": 0.29362,
+        "fear": 0.072461,
+        "disgust": 0.224387,
+        "anger": 0.110315
+      },
+      "disambiguation": {
+        "subtype": [
+          "TelevisionStation"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "800 years",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.279559,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "60 years",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.279559,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$1.25",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.279559,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$58",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.279559,
+      "count": 1
+    }
+  ]
+}
