@@ -1,6 +1,11 @@
 Watson Starter is a Simple Express + NodeJS setup designed for playing around with the Watson APIs.
 
-First API implemented is the Natural Language Understanding. Clone the repo, complete the prerequsites below (from https://github.com/watson-developer-cloud/natural-language-understanding-nodejs), run NPM install and "DEBUG=starter:* npm start"
+First API implemented is the Natural Language Understanding. 
+Clone the repo
+Complete the prerequsites below (from https://github.com/watson-developer-cloud/natural-language-understanding-nodejs)
+Run NPM install
+Launch with "DEBUG=starter:* npm start"
+Headover to localhost:3000/nluTest.html
 
 Prerequisites
 Sign up for an IBM Cloud account.
@@ -29,3 +34,6 @@ Example .env file that configures the username, password, and url for a Natural 
 NATURAL_LANGUAGE_UNDERSTANDING_USERNAME=522be-7b41-ab44-dec3-g1eab2ha73c6
 NATURAL_LANGUAGE_UNDERSTANDING_PASSWORD=A4Z5BdGENrwu8
 NATURAL_LANGUAGE_UNDERSTANDING_URL=https://gateway-syd.watsonplatform.net/natural-language-understanding/api
+
+
+Application was created using Express Generator
